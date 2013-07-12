@@ -1,0 +1,17 @@
+[
+{
+  "modid": "MFAT",
+  "name": "More Food And Tools",
+  "description": "",
+  "version": "7.51",
+  "mcversion": "1.5.2",
+  "logoFile": "",
+  "url": "http://www.minecraftforum.net/topic/1865428-more-food-tools-and-ores/",
+  "updateUrl": "",
+  "authors": ["Jordanlee833"],
+  "credits": "Made by the TRAG team",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
