@@ -27,7 +27,7 @@ import cpw.mods.fml.common.registry.LanguageRegistry;
 /*
 * Basic needed forge stuff
 */
-@Mod(modid="More food and tools",name="More Food And Tools",version="WIP Mod V2")
+@Mod(modid="mfat",name="More Food And Tools",version="WIP Mod V2")
 @NetworkMod(clientSideRequired=true,serverSideRequired=false)
 
 public class Main {
